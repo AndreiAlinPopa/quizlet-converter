@@ -22,6 +22,7 @@ def Merge(dict1, dict2):
 #----------------------#
 
 path = input("Please enter file path: ")
+#err no exception handling here. Fix this.
 
 #---------------------------------------------------#
 # Not the most object oriented, but it's only small #
