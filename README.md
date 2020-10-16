@@ -7,7 +7,7 @@ Created by Andrei Alin Popa
 
 ### Obtaining the Quizlet database
 
-1. Find your desired [Quizlet](quizlet.com) set
+1. Find your desired [Quizlet](https://www.quizlet.com) set
 2. While on flashcards, click on the three dot icon, then "export"![How to export](https://raw.githubusercontent.com/AndreiAlinPopa/quizlet-converter/main/quizlet1.png)
 3. Under "Between term and definition", select "CUSTOM" and type "@@" (without the quotes) into the box
 4. Under "Between rows", select "Semicolon" ![enter image description here](https://raw.githubusercontent.com/AndreiAlinPopa/quizlet-converter/main/quizlet2.png)
