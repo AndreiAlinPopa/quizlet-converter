@@ -4,10 +4,6 @@ Created on Mon Oct 12 01:12:47 2020
 
 @author: Andrei
 """
-"Interesting repo daddy dre but what does it do?"
-"aha very easy! You see it converts quizlet into python dicts"
-"quite swagaroni amirite"
-
 import time
 
 def Merge(dict1, dict2):
